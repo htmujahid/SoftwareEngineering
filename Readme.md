@@ -2,19 +2,19 @@
 
 [Semester I](SoftwareEngineering/Semester-I.md)
 
-[Semester II](SoftwareEngineering/Semester-I.md)
+[Semester II](SoftwareEngineering/Semester-II.md)
 
-[Semester III](SoftwareEngineering/Semester-I.md)
+[Semester III](SoftwareEngineering/Semester-III.md)
 
-[Semester IV](SoftwareEngineering/Semester-I.md)
+[Semester IV](SoftwareEngineering/Semester-IV.md)
 
-[Semester V](SoftwareEngineering/Semester-I.md)
+[Semester V](SoftwareEngineering/Semester-V.md)
 
-[Semester VI](SoftwareEngineering/Semester-I.md)
+[Semester VI](SoftwareEngineering/Semester-VI.md)
 
-[Semester VII](SoftwareEngineering/Semester-I.md)
+[Semester VII](SoftwareEngineering/Semester-VII.md)
 
-[Semester VIII](SoftwareEngineering/Semester-I.md)
+[Semester VIII](SoftwareEngineering/Semester-VIII.md)
 
 ## References
 
